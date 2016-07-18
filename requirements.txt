@@ -1,0 +1,7 @@
+keras
+gensim
+jieba
+sklearn
+h5py
+numpy
+pandas
