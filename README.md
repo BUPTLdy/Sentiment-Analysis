@@ -45,3 +45,7 @@ python predict.py lstm 电脑散热太差，偶尔还蓝屏，送货也太慢了
   - ./lstm_data/Word2vec_model.pkl 保存训练好的word2vec模型
   - ./lstm_data/lstm.yml  保存训练网络的结构
   - ./lstm_data/lstm.h5  保存网络训练到的权重
+  
+#详细介绍
+
+[购物评论情感分析的实现](http://buptldy.github.io/2016/07/20/2016-07-20-%E8%B4%AD%E7%89%A9%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E7%9A%84%E5%AE%9E%E7%8E%B0/)
