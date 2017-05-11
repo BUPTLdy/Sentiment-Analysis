@@ -5,3 +5,4 @@ sklearn==0.0
 h5py==2.6.0
 numpy==1.11.2
 pandas==0.18.1
+Theano==0.8.2
